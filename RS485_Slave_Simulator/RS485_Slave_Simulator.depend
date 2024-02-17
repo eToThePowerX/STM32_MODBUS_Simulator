@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708173283 source:c:\users\etothepowerx\desktop\rs485_slave_simulator\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+
